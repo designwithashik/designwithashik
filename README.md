@@ -1,5 +1,5 @@
-<h2 align="center">Hello there! My name is Ashik Uzzaman 👋</h2>
-<h2 align="center">I love to Develop Beautiful UI
+<h2 align="center">Hello there! My name is Ashik Uzzaman. 👋</h2>
+<h2 align="center">I am a MERN Stack Developer. I love to Develop Beautiful UI
 </h2>
 
 <p align=center>
