@@ -1,89 +1,114 @@
-# 👋 Hello, I'm Ashik Uzzaman
-### 🎨 UI Designer • Web Experience Builder • AI-Integrated Creator
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Ashik%20Uzzaman&fontAlign=50&fontAlignY=40&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff" />
+
+<p align="center">
+UI Designer • Web Experience Builder • AI-Integrated Creator
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3500&pause=900&color=6A6A6A&center=true&vCenter=true&width=500&lines=Designing+Minimal+Interfaces;Building+Modern+Web+Experiences;Exploring+AI+in+Creative+Workflows" />
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=designwithashik&label=Profile%20Views&color=lightgrey&style=flat" />
+
+<img src="https://img.shields.io/badge/UI%20Designer-Minimal%20Interfaces-black?style=flat" />
+
+<img src="https://img.shields.io/badge/AI-Integrated%20Workflow-black?style=flat" />
+
+</p>
 
 ---
 
-## 💻 About Me
+# About
 
-I design and build modern digital experiences where **clarity, aesthetics, and technology** meet.
+I design and build digital products focused on **clarity, visual hierarchy, and refined user experience**.
 
-My focus is creating **minimal yet impactful interfaces**, combining strong visual hierarchy with modern web technologies and AI-assisted workflows.
+My workflow blends **UI design, modern web technologies, and AI-assisted tools** to create minimal yet powerful digital experiences.
 
-- 🔭 Currently working on **design-driven websites and digital brand experiences**
-- 🌱 Exploring **advanced UI systems and modern frontend architecture**
-- 🤖 Integrating **AI tools into design and development workflows**
-- 🎯 Focused on **clean interfaces, scalable design systems, and refined UX**
-
----
-
-## 🛠 Toolkit
-
-**Design**
-
-Figma • UI Design • Design Systems • Visual Identity
-
-**Development**
-
-Next.js • React • HTML • CSS • Tailwind
-
-**Workflow**
-
-Git • GitHub • VS Code • AI-assisted development
+• Design systems & interface architecture  
+• Design-driven web development  
+• AI-assisted creative workflows  
+• Brand-focused digital products
 
 ---
 
-## 🤖 AI-Integrated Work
+# Toolkit
 
-I actively integrate AI into my creative and development process.
-
-• AI-assisted UI exploration and ideation  
-• Rapid design prototyping  
-• AI-supported development workflows  
-• Creative concept generation for digital products
+<p align="center">
+<img src="https://skillicons.dev/icons?i=figma,nextjs,react,html,css,tailwind,git,github,vscode" />
+</p>
 
 ---
 
-## 🚀 Selected Project
+# AI Integrated Workflow
 
-### TAC — Tacin Arabi Collection
+• AI-assisted UI exploration  
+• rapid design prototyping  
+• creative concept generation  
+• AI-supported development workflows
 
-A lifestyle brand website focused on **minimal design and brand storytelling**.
+---
 
-Highlights
+# Featured Project
 
-• Clean brand-driven interface  
-• Mobile-first experience  
-• Minimal visual language  
+<p align="center">
+
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=designwithashik&repo=REPOSITORY_NAME&hide_border=true&theme=transparent"/>
+
+</a>
+
+</p>
+
+**TAC — Tacin Arabi Collection**
+
+Minimal lifestyle brand website focused on **visual storytelling and modern UI design**.
+
+• Brand-driven interface  
+• Mobile-first layout  
+• Clean minimal aesthetic  
 • Built using modern web technologies
 
 ---
 
-## 📊 GitHub Stats
+# GitHub Activity
 
-![Ashik's GitHub stats](https://github-readme-stats.vercel.app/api?username=designwithashik&show_icons=true&hide_border=true&theme=transparent)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=designwithashik&layout=compact&hide_border=true&theme=transparent)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=designwithashik&show_icons=true&hide_border=true&theme=transparent"/>
 
----
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=designwithashik&layout=compact&hide_border=true&theme=transparent"/>
 
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=designwithashik&theme=github-compact)
+</p>
 
 ---
 
-## 🧠 Core Skills
+# Currently Exploring
 
-UI Design • Design Systems • Web Interfaces • Brand Identity • AI-Assisted Workflow
-
----
-
-## 📫 Connect
-
-📧 Email: ashikuzzaman099@gmail.com  
-💼 LinkedIn: https://linkedin.com/in/ashikuzzaman099  
-💻 GitHub: https://github.com/designwithashik  
+• Advanced UI systems  
+• Creative developer portfolios  
+• AI-assisted product design  
+• Studio-level web projects
 
 ---
 
-⭐️ From **Ashik Uzzaman**
+# Connect
+
+<p align="center">
+
+<a href="https://github.com/designwithashik">GitHub</a> •
+<a href="https://linkedin.com/in/ashikuzzaman099">LinkedIn</a> •
+<a href="mailto:ashikuzzaman099@gmail.com">Email</a>
+
+</p>
+
+---
+
+<p align="center">
+Design • Build • Refine
+</p>
+
+---
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
