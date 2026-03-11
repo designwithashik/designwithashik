@@ -55,7 +55,7 @@ My workflow blends **UI design, modern web technologies, and AI-assisted tools**
 <p align="center">
 
 <a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=designwithashik&repo=REPOSITORY_NAME&hide_border=true&theme=transparent"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=designwithashik&repo=tacinarabicollection&hide_border=true&theme=transparent"/>
 
 </a>
 
