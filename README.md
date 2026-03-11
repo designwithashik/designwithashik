@@ -10,7 +10,7 @@
 ### 🎨 Currently Exploring  
 - Advanced UI systems and design-driven web apps  
 - AI-powered creative workflows and automation  
-- Studio-quality portfolio design  
+- Studio-level web projects  
 
 ### 🔗 Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ashikuzzaman099/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ashikuzzaman099@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-grey?style=flat-square)](#)  
@@ -20,10 +20,10 @@
 
 ### 🔭 Featured Projects  
 <a href="https://github.com/designwithashik/REPO_NAME1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=designwithashik&repo=REPO_NAME1" alt="REPO_NAME1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=designwithashik&repo=tacinarabicollection" alt="REPO_NAME1" />
 </a>
 <a href="https://github.com/designwithashik/REPO_NAME2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=designwithashik&repo=REPO_NAME2" alt="REPO_NAME2" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=designwithashik&repo=career-home" alt="REPO_NAME2" />
 </a>
 
 <details>
@@ -34,12 +34,13 @@
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./github-snake.svg" />
-  <img alt="GitHub Contributions Snake" src="./github-snake.svg" />
-</picture>
+## 📈 Contribution Snake
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=designwithashik&label=Profile+Views&color=lightgrey&style=flat)
