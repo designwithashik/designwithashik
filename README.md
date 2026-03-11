@@ -1,114 +1,45 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Ashik%20Uzzaman&fontAlign=50&fontAlignY=40&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff" />
-
 <p align="center">
-UI Designer • Web Experience Builder • AI-Integrated Creator
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ashik%20Uzzaman&fontSize=60" alt="Ashik Uzzaman" />
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3500&pause=900&color=6A6A6A&center=true&vCenter=true&width=500&lines=Designing+Minimal+Interfaces;Building+Modern+Web+Experiences;Exploring+AI+in+Creative+Workflows" />
-</p>
+# Hello there! I'm **Ashik Uzzaman** 👋  
+🚀 *UI Designer & Creative Developer building minimalist, user-centric interfaces.*  
 
-<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&center=true&vCenter=true&lines=Designing+Minimal+UIs;Building+AI-driven+Experiences;Open-Source+Enthusiast" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=designwithashik&label=Profile%20Views&color=lightgrey&style=flat" />
+### 🎨 Currently Exploring  
+- Advanced UI systems and design-driven web apps  
+- AI-powered creative workflows and automation  
+- Studio-quality portfolio design  
 
-<img src="https://img.shields.io/badge/UI%20Designer-Minimal%20Interfaces-black?style=flat" />
+### 🔗 Connect with me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ashikuzzaman099/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ashikuzzaman099@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-grey?style=flat-square)](#)  
 
-<img src="https://img.shields.io/badge/AI-Integrated%20Workflow-black?style=flat" />
+### 💻 Tech & Tools  
+<img src="https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=figma&logoColor=red" alt="Figma" /> <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/AdobeXD-E19EF9?style=for-the-badge&logo=adobexd&logoColor=white" alt="Adobe XD" />  
 
-</p>
-
----
-
-# About
-
-I design and build digital products focused on **clarity, visual hierarchy, and refined user experience**.
-
-My workflow blends **UI design, modern web technologies, and AI-assisted tools** to create minimal yet powerful digital experiences.
-
-• Design systems & interface architecture  
-• Design-driven web development  
-• AI-assisted creative workflows  
-• Brand-focused digital products
-
----
-
-# Toolkit
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=figma,nextjs,react,html,css,tailwind,git,github,vscode" />
-</p>
-
----
-
-# AI Integrated Workflow
-
-• AI-assisted UI exploration  
-• rapid design prototyping  
-• creative concept generation  
-• AI-supported development workflows
-
----
-
-# Featured Project
-
-<p align="center">
-
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=designwithashik&repo=tacinarabicollection&hide_border=true&theme=transparent"/>
-
+### 🔭 Featured Projects  
+<a href="https://github.com/designwithashik/REPO_NAME1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=designwithashik&repo=REPO_NAME1" alt="REPO_NAME1" />
+</a>
+<a href="https://github.com/designwithashik/REPO_NAME2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=designwithashik&repo=REPO_NAME2" alt="REPO_NAME2" />
 </a>
 
-</p>
+<details>
+<summary><strong>⚙️ GitHub Stats</strong> (click to expand)</summary>
 
-**TAC — Tacin Arabi Collection**
+![Ashik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=designwithashik&show_icons=true&theme=default)
+</details>
 
-Minimal lifestyle brand website focused on **visual storytelling and modern UI design**.
+<br/>
 
-• Brand-driven interface  
-• Mobile-first layout  
-• Clean minimal aesthetic  
-• Built using modern web technologies
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./github-snake.svg" />
+  <img alt="GitHub Contributions Snake" src="./github-snake.svg" />
+</picture>
 
----
+<br/>
 
-# GitHub Activity
-
-<p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=designwithashik&show_icons=true&hide_border=true&theme=transparent"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=designwithashik&layout=compact&hide_border=true&theme=transparent"/>
-
-</p>
-
----
-
-# Currently Exploring
-
-• Advanced UI systems  
-• Creative developer portfolios  
-• AI-assisted product design  
-• Studio-level web projects
-
----
-
-# Connect
-
-<p align="center">
-
-<a href="https://github.com/designwithashik">GitHub</a> •
-<a href="https://linkedin.com/in/ashikuzzaman099">LinkedIn</a> •
-<a href="mailto:ashikuzzaman099@gmail.com">Email</a>
-
-</p>
-
----
-
-<p align="center">
-Design • Build • Refine
-</p>
-
----
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+![Profile Views](https://komarev.com/ghpvc/?username=designwithashik&label=Profile+Views&color=lightgrey&style=flat)
