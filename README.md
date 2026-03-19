@@ -17,7 +17,14 @@ AA26 Studio exists for founders, ambitious teams, and modern brands that want mo
 - **AI-enhanced workflows** — Thoughtful automation and creative systems that improve speed without diluting craft.
 
 ### 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ashikuzzaman099/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ashikuzzaman099@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-grey?style=flat-square)](#)
+If you're a founder, startup team, or premium brand looking for a sharper digital presence, AA26 Studio is open to a small number of focused collaborations where taste, clarity, and commercial intent all matter.
+
+Open to select engagements across **brand sites**, **product design**, **UI systems**, and **creative development**—especially where the brief calls for high-trust positioning and polished execution.
+
+[![Email](https://img.shields.io/badge/Email-Discuss%20a%20project-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashikuzzaman099@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashikuzzaman099/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Selected%20work-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/designwithashik?tab=repositories)
+[![Private Portfolio](https://img.shields.io/badge/Private%20portfolio-Available%20on%20request-4B5563?style=for-the-badge)](mailto:ashikuzzaman099@gmail.com?subject=Private%20portfolio%20request)
 
 ### 💻 Tech & Tools
 <img src="https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=figma&logoColor=red" alt="Figma" /> <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/AdobeXD-E19EF9?style=for-the-badge&logo=adobexd&logoColor=white" alt="Adobe XD" />
