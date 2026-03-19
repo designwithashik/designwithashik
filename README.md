@@ -1,58 +1,112 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=AA26%20Studio&fontSize=58&fontAlignY=38&desc=Founded%20by%20Ashik%20Uzzaman&descAlignY=60" alt="AA26 Studio banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=AA26%20Studios&fontSize=58&fontAlignY=38&desc=Premium%20design%20and%20product%20studio&descAlignY=60" alt="AA26 Studios banner" />
 </p>
 
-# Ashik Uzzaman — Founder of **AA26 Studio**
-Premium digital brands, high-conversion web experiences, and refined product identities built with clarity and intent.
+# Ashik Uzzaman — Founder of **AA26 Studios**
+Premium brand systems, product interfaces, and digital experiences shaped with clarity, restraint, and commercial intent.
 
-AA26 Studio exists for founders, ambitious teams, and modern brands that want more than a polished surface. I build with a high bar for taste, precision, and performance—shaping digital identities and web experiences that feel premium, convert clearly, and hold up over time. Every decision is made to create focus, trust, and momentum for the businesses behind the brand.
+AA26 Studios partners with founders, modern brands, and growth-focused teams that need more than surface-level design. The studio builds identities, interfaces, and web experiences that feel considered from the first impression to the final interaction—balancing positioning, usability, and execution with a premium standard throughout.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&center=true&vCenter=true&lines=Premium+Brand+Experiences;Conversion-led+Web+Design;Refined+Digital+Identity+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&center=true&vCenter=true&lines=Premium+Brand+Systems;Product+Design+with+Clarity;Studio-led+Digital+Execution" alt="Typing SVG" />
 
 ### ✦ Studio Focus
-- **Brand direction & visual systems** — Distinctive digital identities with strong art direction, structure, and consistency.
-- **Conversion-first websites** — Premium marketing sites and landing pages designed to turn attention into action.
-- **UI systems for modern products** — Clean, scalable interfaces that balance usability with visual refinement.
-- **Creative development** — Fast, polished front-end execution that preserves design quality in the final build.
-- **AI-enhanced workflows** — Thoughtful automation and creative systems that improve speed without diluting craft.
+- **Brand identity systems** — Visual foundations designed to create trust, distinction, and consistency.
+- **Product UX/UI** — Interface systems built for clarity, usability, and a premium user experience.
+- **Web experiences** — High-quality marketing sites and digital storefronts with strong visual discipline.
+- **Creative development** — Front-end execution that preserves the integrity of the design system.
+- **Design thinking for growth** — Structured work that helps brands look sharper, feel more credible, and scale with confidence.
 
-### 🔗 Connect with me
-If you're a founder, startup team, or premium brand looking for a sharper digital presence, AA26 Studio is open to a small number of focused collaborations where taste, clarity, and commercial intent all matter.
+## Selected Work
 
-Open to select engagements across **brand sites**, **product design**, **UI systems**, and **creative development**—especially where the brief calls for high-trust positioning and polished execution.
+A curated selection of projects that represent how AA26 Studios approaches brand building, product design, and digital execution.
+
+### Tacin Arabi Collection  
+Curated fashion brand with full digital commerce system.
+
+• **What it is**  
+A fashion-led retail brand shaped as a complete digital ecosystem rather than a simple storefront. The project combines premium brand presentation, a customer-facing commerce experience, and operational tools behind the scenes.
+
+• **My Role**  
+Brand Identity, UX/UI Design, E-commerce Web App, Admin & Inventory System
+
+• **What I Did**  
+- Defined the brand direction and visual identity for a more elevated market position
+- Designed the storefront UX/UI to make browsing, product discovery, and purchase flow feel refined and intuitive
+- Built the e-commerce web app experience around a premium, mobile-first customer journey
+- Structured the admin and inventory system to support day-to-day product and order management
+
+• **Why It Matters**  
+This project shows the ability to build a full brand + product ecosystem—where identity, interface, and operational thinking work together as one coherent system.
+
+<a href="https://github.com/designwithashik/tacinarabicollection">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=designwithashik&repo=tacinarabicollection" alt="Tacin Arabi Collection repository" />
+</a>
+
+<br />
+
+### Healthtrix  
+Corporate brand identity and marketing system.
+
+• **What it is**  
+A structured identity project for a real business that needed a professional and credible brand presence across core communication touchpoints. The system was designed to feel polished, consistent, and ready for practical business use.
+
+• **My Role**  
+Brand System, LinkedIn Marketing Creatives, Office Stationery Design
+
+• **What I Did**  
+- Developed the core brand system to establish a cleaner and more consistent visual language
+- Designed LinkedIn marketing creatives to support business communication and brand visibility
+- Created office stationery assets aligned with the overall identity system
+- Maintained cohesion across every branded touchpoint to reinforce professionalism
+
+• **Why It Matters**  
+This work demonstrates structured brand identity thinking for a real business, showing how consistency and restraint can strengthen trust across both marketing and internal materials.
+
+### Pathfinder  
+Logo and visual identity exploration.
+
+• **What it is**  
+A focused identity exploration centered on creating a logo and visual direction with clarity, confidence, and minimal excess. The project prioritizes strong fundamentals over decorative complexity.
+
+• **My Role**  
+Logo Design, Visual Direction
+
+• **What I Did**  
+- Explored multiple logo routes to identify the strongest symbolic direction
+- Refined the visual language around simplicity, balance, and recognizability
+- Built a minimal identity expression that could scale cleanly across applications
+
+• **Why It Matters**  
+It highlights core identity thinking and minimal design execution—showing the studio’s ability to make simple work feel intentional, distinctive, and resolved.
+
+### AI SaaS Dashboard UI  
+Conceptual product interface for modern SaaS.
+
+• **What it is**  
+A conceptual dashboard interface designed to explore how a modern SaaS product can feel intelligent, usable, and visually refined at the same time. The work balances product clarity with a premium digital aesthetic.
+
+• **My Role**  
+Dashboard UX, Data Visualization UI, Product Interface System
+
+• **What I Did**  
+- Designed the dashboard UX to improve information hierarchy and navigation clarity
+- Created data visualization UI patterns that feel clean, readable, and product-ready
+- Built a scalable interface system for consistent SaaS product interactions
+- Focused on a visual language that feels contemporary without becoming noisy
+
+• **Why It Matters**  
+This project shows product design capability and SaaS thinking—especially the ability to shape complex information into an interface that feels both useful and high quality.
+
+### 🔗 Connect
+Open to select collaborations across brand identity, product design, web experiences, and creative development.
 
 [![Email](https://img.shields.io/badge/Email-Discuss%20a%20project-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashikuzzaman099@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashikuzzaman099/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Selected%20work-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/designwithashik?tab=repositories)
 [![Private Portfolio](https://img.shields.io/badge/Private%20portfolio-Available%20on%20request-4B5563?style=for-the-badge)](mailto:ashikuzzaman099@gmail.com?subject=Private%20portfolio%20request)
 
-### 💻 Tech & Tools
+### 💻 Tools
 <img src="https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=figma&logoColor=red" alt="Figma" /> <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/AdobeXD-E19EF9?style=for-the-badge&logo=adobexd&logoColor=white" alt="Adobe XD" />
-
-## Selected Work
-
-A few builds that best reflect the AA26 Studio standard: brand-led interfaces, conversion-minded structure, and development that keeps the finish intact.
-
-### Tacin Arabic Collection
-A mobile-first e-commerce storefront for an Arabic fashion and lifestyle brand. I led the product direction, visual refinement, and front-end build, shaping a premium shopping flow with WhatsApp checkout, polished micro-interactions, and a performance-aware Next.js stack. It stands out because it turns a straightforward catalog into a branded buying experience that feels intentional on every screen.
-
-<a href="https://github.com/designwithashik/tacinarabicollection">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=designwithashik&repo=tacinarabicollection" alt="tacinarabicollection" />
-</a>
-
-### Portfolio
-A personal studio portfolio concept built to present taste, clarity, and credibility in a founder-facing format. I designed and developed the experience as a positioning piece, using a modern Next.js setup to explore how typography, spacing, and restrained motion can make a solo brand feel elevated. It is noteworthy because it treats a portfolio less like a resume and more like a premium digital identity.
-
-<a href="https://github.com/designwithashik/portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=designwithashik&repo=portfolio" alt="portfolio" />
-</a>
-
-### Zep
-A sleek web experience concept that explores product presentation through a cleaner, sharper front-end lens. I handled both the interface direction and implementation, focusing on layout rhythm, responsive behavior, and the kind of minimal visual system that gives early-stage brands a more confident presence. It is worth featuring because it shows AA26 Studio's taste for turning simple ideas into polished, launch-ready surfaces.
-
-<a href="https://github.com/designwithashik/zep">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=designwithashik&repo=zep" alt="zep" />
-</a>
 
 <details>
 <summary><strong>⚙️ GitHub Stats</strong> (click to expand)</summary>
