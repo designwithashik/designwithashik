@@ -22,12 +22,29 @@ AA26 Studio exists for founders, ambitious teams, and modern brands that want mo
 ### 💻 Tech & Tools
 <img src="https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=figma&logoColor=red" alt="Figma" /> <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/AdobeXD-E19EF9?style=for-the-badge&logo=adobexd&logoColor=white" alt="Adobe XD" />
 
-### 🔭 Featured Projects
-<a href="https://github.com/designwithashik/REPO_NAME1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=designwithashik&repo=tacinarabicollection" alt="REPO_NAME1" />
+## Selected Work
+
+A few builds that best reflect the AA26 Studio standard: brand-led interfaces, conversion-minded structure, and development that keeps the finish intact.
+
+### Tacin Arabic Collection
+A mobile-first e-commerce storefront for an Arabic fashion and lifestyle brand. I led the product direction, visual refinement, and front-end build, shaping a premium shopping flow with WhatsApp checkout, polished micro-interactions, and a performance-aware Next.js stack. It stands out because it turns a straightforward catalog into a branded buying experience that feels intentional on every screen.
+
+<a href="https://github.com/designwithashik/tacinarabicollection">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=designwithashik&repo=tacinarabicollection" alt="tacinarabicollection" />
 </a>
-<a href="https://github.com/designwithashik/REPO_NAME2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=designwithashik&repo=career-home" alt="REPO_NAME2" />
+
+### Portfolio
+A personal studio portfolio concept built to present taste, clarity, and credibility in a founder-facing format. I designed and developed the experience as a positioning piece, using a modern Next.js setup to explore how typography, spacing, and restrained motion can make a solo brand feel elevated. It is noteworthy because it treats a portfolio less like a resume and more like a premium digital identity.
+
+<a href="https://github.com/designwithashik/portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=designwithashik&repo=portfolio" alt="portfolio" />
+</a>
+
+### Zep
+A sleek web experience concept that explores product presentation through a cleaner, sharper front-end lens. I handled both the interface direction and implementation, focusing on layout rhythm, responsive behavior, and the kind of minimal visual system that gives early-stage brands a more confident presence. It is worth featuring because it shows AA26 Studio's taste for turning simple ideas into polished, launch-ready surfaces.
+
+<a href="https://github.com/designwithashik/zep">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=designwithashik&repo=zep" alt="zep" />
 </a>
 
 <details>
